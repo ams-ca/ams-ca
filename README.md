@@ -1,7 +1,7 @@
-Lawyer and former software developer exploring legal tech ⚡
+Lawyer dabbling in legal tech ⚡
 
 <!--
-**codeattheplaya/codeattheplaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ams-ca/ams-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
